@@ -7,7 +7,6 @@
   <p>
     <a href="mailto:adversinsight@gmail.com">Email</a> ·
     <a href="https://t.me/andruxxann">Telegram</a> ·
-    <a href="https://github.com/addrree">GitHub</a>
   </p>
 </div>
 
